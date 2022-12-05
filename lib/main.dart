@@ -11,10 +11,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text("12021215194  顾建明"),
-      ),
-      body: const Center( child: Text("This is new route")));
+        appBar: AppBar(
+          title: const Text("12021215194  顾建明"),
+        ),
+        body: const Center(child: Text("This is new route")));
     // return MaterialApp(
     //   title: 'Flutter Demo',
     //   theme: ThemeData(
